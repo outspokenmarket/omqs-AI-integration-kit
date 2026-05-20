@@ -1,0 +1,54 @@
+{
+  "type": "snapshot",
+  "symbol": "BTCUSDT",
+  "timeframe": "1",
+  "ohlc": [
+    {
+      "timestamp": 1774915200,
+      "open": "80920.00",
+      "high": "81020.00",
+      "low": "80880.00",
+      "close": "80988.41",
+      "volume": "24.18",
+      "closed": true,
+      "omqs": 1,
+      "stop": "80120.55",
+      "omsd": {
+        "weekly": {
+          "1sd": {
+            "upper": "84284.08",
+            "lower": "79735.64"
+          }
+        }
+      },
+      "stops": {
+        "fast": "80310.10",
+        "balanced": "80120.55",
+        "slow": "79880.40"
+      }
+    },
+    {
+      "timestamp": 1774915260,
+      "open": "80988.41",
+      "high": "81044.20",
+      "low": "80970.00",
+      "close": "81012.80",
+      "volume": "18.42",
+      "closed": false,
+      "omqs": 1,
+      "stop": "80120.55",
+      "stops": {
+        "fast": "80310.10",
+        "balanced": "80120.55",
+        "slow": "79880.40"
+      }
+    }
+  ],
+  "omqs": 1,
+  "stop": "80120.55",
+  "stops": {
+    "fast": "80310.10",
+    "balanced": "80120.55",
+    "slow": "79880.40"
+  }
+}
